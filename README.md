@@ -35,4 +35,4 @@ El sistema está dividido en dos módulos independientes, permitiendo una separa
 * **Gestor de dependencias:** Gradle.
 * **Arquitectura:** Cliente-Servidor autoritativo.
 
-Desarrollado por Brandt Ignacio
+Desarrollado por **Brandt Ignacio**
