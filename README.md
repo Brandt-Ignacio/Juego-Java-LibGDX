@@ -1,4 +1,7 @@
 # ⚽ Haxball Clone - Multiplayer Game (Java & LibGDX)
+![Captura Menu](screenshoot-menu.png)
+![Captura Futbol](Screenshot-futbol.png)
+![Captura Basket](screenshoot-basket.png)
 
 Este proyecto es un videojuego multijugador 2D inspirado en Haxball, desarrollado íntegramente en **Java**. Utiliza una arquitectura **Cliente-Servidor** para gestionar la lógica de juego y la sincronización de físicas en tiempo real.
 
